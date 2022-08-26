@@ -1,0 +1,2 @@
+Es un programa simple que hace uso de archivos donde Se escriben, buscan y eliminan alumnos 
+de un registro
